@@ -1,4 +1,4 @@
-import { getImagen } from "../base-pruebas/11-async-await";
+import { getImagen } from "../js-pruebas/11-async-await";
 
 describe("Pruebas en 11-async-await", () => {
   test("Debe retornar un error", async () => {

@@ -1,4 +1,4 @@
-import { getHeroeByIdAsync } from "../base-pruebas/09-promesas";
+import { getHeroeByIdAsync } from "../js-pruebas/09-promesas";
 
 describe("Pruebas de promesas", () => {
   test("Debe de retornar un heroe", (done) => {

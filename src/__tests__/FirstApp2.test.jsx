@@ -1,5 +1,5 @@
 import { render, screen } from "@testing-library/react";
-import FirstApp from "../basico/FirstApp";
+import FirstApp from "../react-component/FirstApp";
 
 describe("Pruebas en FirstApp", () => {
   const titulo = "Hola, soy Goku";

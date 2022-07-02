@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import FirstApp from "../basico/FirstApp";
+import FirstApp from "../react-component/FirstApp";
 
 describe("Pruebas en FirstApp", () => {
   test("debe de hacer match con el snaptshot", () => {
